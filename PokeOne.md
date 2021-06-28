@@ -143,7 +143,7 @@ PokeOne needs .NET 4.6 to run properly and we use Winetricks to install that. Fi
 The wine executable of the runner we're using
 
 ```bash
-export WINE="/home/{yourUsername}/.local/share/lutris/runner/wine/{theRunnerWeAreUsing}/bin/wine"
+export WINE="/home/{yourUsername}/.local/share/lutris/runners/wine/{theRunnerWeAreUsing}/bin/wine"
 ```
 
 Your working directory
