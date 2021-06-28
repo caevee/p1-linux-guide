@@ -2,6 +2,8 @@
 
 *Last updated 20/06/2021*
 
+*Based on the [guide](https://docs.google.com/document/d/1r8aW7ySb3IHBOlq_y1HHlEDymAzS4oXmkACUtIhMV6M/edit#) by Ads20000*
+
 *© caevee (CC-BY 4.0)*
 
 ## Step 1: Update your system
